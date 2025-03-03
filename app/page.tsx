@@ -553,7 +553,7 @@ export default function Home() {
   <li>Secured 3rd position in a drawing event conducted by Hobby Horses on 09/03/2024.</li>
   <li>Participated in a 24-hour Webathon conducted by V R Siddhartha College, Vijayawada on 07/10/2023.</li>
   <li>
-    Selected as a Build@Meraceri Trainee, where I worked on real-world projects involving full-stack development,  
+    Selected as a Build@Mercari Trainee, where I worked on real-world projects involving full-stack development,  
     gaining hands-on experience with modern web technologies and industry best practices.
   </li>
 </ul>
